@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bd6d83a5.css",
+    "main.js": "./static/js/main.ef95e889.js",
+    "static/js/787.e3835ec5.chunk.js": "./static/js/787.e3835ec5.chunk.js",
+    "static/media/Employee.jpg": "./static/media/Employee.f672eee0fd72e4fce33b.jpg",
+    "static/media/color-sharp.png": "./static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "./static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/PMS.png": "./static/media/PMS.7ff6c585dbbabff82a71.png",
+    "static/media/dictornaryApp.png": "./static/media/dictornaryApp.d745700dbc8c134bb447.png",
+    "static/media/banner-bg.png": "./static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "./static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/weatherApp.png": "./static/media/weatherApp.75ae134d71175c5733bb.png",
+    "static/media/CentraNo2-Bold.ttf": "./static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "./static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "./static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "./static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/sql.png": "./static/media/sql.0a0c84e7c8af71b1d29c.png",
+    "static/media/revicons.eot": "./static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "./static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/react.png": "./static/media/react.89996b225745a7b82cf2.png",
+    "static/media/githubIcon.png": "./static/media/githubIcon.a9bd51e640a1d4634ea3.png",
+    "static/media/microservice.png": "./static/media/microservice.5fa1d3efe5f09350cb9e.png",
+    "static/media/revicons.woff": "./static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.bd6d83a5.css.map": "./static/css/main.bd6d83a5.css.map",
+    "main.ef95e889.js.map": "./static/js/main.ef95e889.js.map",
+    "787.e3835ec5.chunk.js.map": "./static/js/787.e3835ec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd6d83a5.css",
+    "static/js/main.ef95e889.js"
+  ]
+}
